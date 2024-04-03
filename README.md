@@ -1,7 +1,7 @@
 # StableDiffusionPUPPI
 
 
-Repository for the Bristol ML@L1 Hackathon project! :)
+Repository for Stable Diffusion chain used for Pile-up mitigation/
 
 
 ## Getting started
